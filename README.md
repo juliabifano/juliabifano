@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Júlia!
 
-<!--
-**juliabifano/juliabifano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedora Front-end em formação  
+💻 Focada em HTML, CSS, JavaScript e APIs  
+📚 Estudando Análise e Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- APIs REST
+- React (básico)
+
+---
+
+## 📌 Projetos em destaque
+🔗 [To-do List](https://github.com/juliabifano/todo-list)  
+🔗 [Fokus](https://github.com/juliabifano/fokus)  
+🔗 [Jornada Viagens](https://github.com/juliabifano/jornada-viagens)
+
+---
+
+## 📫 Contato
+📧 juliabifano@hotmail.com  
+🔗 LinkedIn: linkedin.com/in/juliabifano
