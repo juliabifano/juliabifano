@@ -17,8 +17,8 @@
 ---
 
 ## 📌 Projetos em destaque
-🔗 [To-do List](https://github.com/juliabifano/todo-list)  
-🔗 [Fokus](https://github.com/juliabifano/fokus)  
+🔗 [Planner App](https://github.com/juliabifano/planner-app)  
+🔗 [Weather App](https://github.com/juliabifano/weather-app-react)  
 🔗 [Jornada Viagens](https://github.com/juliabifano/jornada-viagens)
 
 ---
