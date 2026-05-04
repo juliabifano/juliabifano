@@ -12,7 +12,7 @@
 - JavaScript
 - Git & GitHub
 - APIs REST
-- React (básico)
+- React 
 
 ---
 
